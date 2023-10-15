@@ -15,6 +15,8 @@ npm i
 npm run dev
 ```
 
+Make sure to add the appropriates .env variables.
+
 ## Contributing
 
 Please, open a issue for changes requests and discussions.
